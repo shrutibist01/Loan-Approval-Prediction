@@ -31,8 +31,11 @@ Why: Selected for its simplicity and non-parametric nature, making it a good cho
 How: Trained on the dataset with a specified number of neighbors to predict loan approvals, providing a comparison with other more complex models.
 
 # Workflow Summary
+
 Data Loading: The dataset is loaded into a Pandas DataFrame.
+
 Exploratory Data Analysis (EDA): Initial exploration and visualization to understand the dataset structure and key features.
+
 Model Training and Evaluation: The above classifiers are trained on the dataset, and their performance is evaluated to determine the most accurate model.
 
 # Accuracy Evaluation
